@@ -10,9 +10,9 @@ error_reporting(E_ALL);
 | and give it the Closure to execute when that URI is requested.
 |
 */
- /*Route::get('/', function()
+ /*Route::get('/attributes', function()
     {
-        return View::make('login');
+        return View::make('attributes');
     });*/
 
 Route::resource('data','ReportSeguimientoController');

@@ -29,9 +29,10 @@
                         <ul>
                             <li><a href="#intro">Bienvenido</a></li>
                             <li><a href="#one">Ofrecemos</a></li>
-                            <li><a href="#two">Como Hacemos</a></li>
+                            <li><a href="#two">Características</a></li>
+                            <li><a href="#three">Tecnologías</a></li>
                             <li><a href="#four">Video Perfomance</a></li>
-                            <li><a href="#three">Contactar</a></li>
+                            <li><a href="#five">Contactar</a></li>
                             <li><a class="item_app" href="login" target="_blank">App</a></li>
                             <div class="sub_item_app">
 
@@ -47,7 +48,8 @@
                 <!-- Intro -->
                     <section id="intro" class="wrapper style1 fullscreen fade-up">
                         <div class="inner">
-                            <h1>Sistematizamos soluciones integrales para necesidades de información</h1>
+
+                            <h1>Sistematizamos soluciones integrales para necesidades de información a través de una plataforma de aplicaciones para IOS y Android</h1>
                             <p>
                             </p>
                             <ul class="actions">
@@ -57,71 +59,95 @@
                     </section>
 
                 <!-- One -->
-                    <section id="one" class="wrapper style2 spotlights">
+                    <section id="one" class="wrapper style2 spotlights fullscreen fade-up">
                         <section>
-                            <a href="#" class="image fit"><img style="/*height: 493px; width: 499px;*/" src="images/paperless_slider.jpg" alt="" data-position="center center" /></a>
+                            <!--<a href="#" class="image fit"><img style="/*height: 493px; width: 499px;*/" src="images/paperless_slider.jpg" alt="" data-position="center center" /></a>-->
                             <div class="content">
                                 <div class="inner">
-                                    <h2>Desarrollo soluciones en ambiente Mobile para el control de sus operaciones</h2>
+                                    <h2 style="background-color: rgba(0, 0, 0, 0.498039);">Desarrollo soluciones en ambiente Mobile para el control de sus operaciones</h2>
 
                                     <ul class="actions">
-                                        <li><a href="#" class="button">Learn more</a></li>
+                                        <li><a href="#two" class="button">Learn more</a></li>
                                     </ul>
                                 </div>
                             </div>
                         </section>
-                        <section>
-                            <a href="#" class="image fit"><img style="/*height: 493px; width: 521px;" src="images/deliverytablet-1024x682.jpg" alt="" data-position="top center" /></a>
-                            <div class="content">
-                                <div class="inner">
-                                    <h2>Reportabilidad / Trazabilidad de las actividades en terreno online</h2>
 
-                                    <ul class="actions">
-                                        <li><a href="#" class="button">Learn more</a></li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </section>
-                        <section>
-                            <a href="#" class="image fit"><img style="/*height: 493px; width: 521px;" src="images/screens.png" alt="" data-position="25% 25%" /></a>
-                            <div class="content">
-                                <div class="inner">
-                                    <h2>Tablero de Control (scorecard) para gestionar recursos y procesos</h2>
-                                    <p><br>
-
-                                    </p>
-                                    <ul class="actions">
-                                        <li><a href="#" class="button">Learn more</a></li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </section>
-                        <section>
-                            <a href="#" class="image fit"><img style="/*height: 493px; width: 521px;" src="images/users.png" alt="" data-position="25% 25%" /></a>
-                            <div class="content">
-                                <div class="inner">
-                                    <h2>Integración de múltiples usuarios para optimzar  múltiples trabajos</h2>
-                                    <p><br>
-
-                                    </p>
-                                    <ul class="actions">
-                                        <li><a href="#" class="button">Learn more</a></li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </section>
                     </section>
 
-                <!-- Two -->
-                    <section id="two" class="wrapper style3 fade-up">
+                    <!-- Two -->
+                        <section id="two" class="wrapper style2 spotlights">
+
+
+                                <section>
+                                    <a href="#" class="image fit"><img style="/*height: 493px; width: 521px;" src="images/deliverytablet-1024x682.jpg" alt="" data-position="top center" /></a>
+                                    <div class="content">
+                                        <div class="inner">
+                                            <h2>Reportabilidad / Trazabilidad de las actividades en terreno online</h2>
+
+                                            <ul class="actions">
+                                                <li><a href="#" class="button">Learn more</a></li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </section>
+                                <section>
+                                    <a href="#" class="image fit"><img style="/*height: 493px; width: 521px;" src="images/screens.png" alt="" data-position="25% 25%" /></a>
+                                    <div class="content">
+                                        <div class="inner">
+                                            <h2>Tablero de Control (Scorecard) para gestionar recursos y procesos</h2>
+                                            <p><br>
+
+                                            </p>
+                                            <ul class="actions">
+                                                <li><a href="#" class="button">Learn more</a></li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </section>
+                                <section>
+                                    <a href="#" class="image fit"><img style="/*height: 493px; width: 521px;" src="images/users.png" alt="" data-position="25% 25%" /></a>
+                                    <div class="content">
+                                        <div class="inner">
+                                            <h2>Integración de múltiples usuarios para optimzar  múltiples trabajos</h2>
+                                            <p><br>
+
+                                            </p>
+                                            <ul class="actions">
+                                                <li><a href="#" class="button">Learn more</a></li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </section>
+                                <section>
+                                    <a href="#" class="image fit"><img style="/*height: 493px; width: 521px;" src="images/azure.png" alt="" data-position="25% 25%" /></a>
+                                    <div class="content">
+                                        <div class="inner">
+                                            <h2>Seguridad de la Información (Microsoft Azure)</h2>
+                                            <p><br>
+
+                                            </p>
+                                            <ul class="actions">
+                                                <li><a href="#" class="button">Learn more</a></li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </section>
+
+
+                        </section>
+
+
+                <!-- Three -->
+                    <section id="three" class="wrapper style3 fade-up">
+
                         <div class="inner">
 
                             <div class="features">
-                                <section>
-                                    <span class="icon major fa-code"></span>
-                                    <h3>&nbsp; Aplicaciones Mobiles</h3>
-                                    <p>Funcionamos en todas las principales plataformas móviles, asegurando que su Android o iPhone le ofrezca funcionalidad mientras se encuentra en movimiento. ¡Suba los datos directamente desde su lugar de trabajo desde su celular o tablet!.</p>
-                                </section>
+
+
+
+
                                 <section>
                                     <span class="icon major fa-lock"></span>
                                     <h3>&nbsp; Captura GPS</h3>
@@ -148,6 +174,22 @@
                                     <i class="fa fa-barcode aria-hidden="true" " style="font-size: ; color: "></i>
                                     <p>Escanee y suba el código de barras de cualquier objeto. Esto puede ser muy útil para el seguimiento de los artículos en el área de trabajo o hacer el seguimiento de compras.</p>
                                 </section>
+                                <section>
+                                    <span class="icon major fa-code"></span>
+                                    <h3>&nbsp; Espacio ilimitado de almacenamiento para sus formularios, incluyendo fotos y otros elementos multimedia.</h3>
+                                    <p></p>
+                                </section>
+                                <section>
+                                    <span class="icon major fa-code"></span>
+                                    <h3>&nbsp; Optimización de tamaño de fotos en el móvil antes de su envío para minimizar tráfico de datos.</h3>
+                                    <p></p>
+                                </section>
+                                <section>
+                                    <span class="icon major fa-code"></span>
+                                    <h3>&nbsp;Plataforma web de administración funciona en cualquier computador con internet y un navegador compatible con HTML5</h3>
+                                    <p></p>
+                                </section>
+
                             </div>
                             <ul class="actions">
                                 <li><a href="#" class="button">Learn more</a></li>
@@ -182,8 +224,8 @@
 
                     </section>
 
-                <!-- Three -->
-                    <section id="three" class="wrapper style1 fade-up">
+                <!-- Five -->
+                    <section id="five" class="wrapper style2 fade-up">
                         <div class="inner">
                             <h2>Contactar</h2>
 
@@ -208,7 +250,7 @@
                                     </form>
                                 </section>
                                 <section>
-                                    <ul class="contact">
+                                   <!-- <ul class="contact">
                                         <li>
                                             <h3>Dirección</h3>
                                             <span>Escanilla 255<br />
@@ -233,7 +275,7 @@
                                                 <li><a href="#" class="fa-linkedin"><span class="label">LinkedIn</span></a></li>
                                             </ul>
                                         </li>
-                                    </ul>
+                                    </ul>-->
                                 </section>
                             </div>
                         </div>
@@ -268,6 +310,9 @@
     </body>
 </html>
 <script type="text/javascript">
+function showAttributes() {
+   document.getElementById('attributes').style.display = "block";
+}
 
   /*  $(document).ready(function () {
 

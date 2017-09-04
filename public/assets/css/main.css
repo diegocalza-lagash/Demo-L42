@@ -2595,6 +2595,18 @@
 				}
 
 /* Image */
+#one .button{
+	border: solid 4px !important;
+    border-color: rgb(255, 255, 255) !important;
+    border-radius: 3em;
+    color: rgba(0, 0, 0, 0.57) !important;
+}
+
+#one{
+	background:url("/paperless_slider.jpg");
+       background-size: cover;
+       color:black;
+}
 
 	.image {
 		border-radius: 0.25em;
