@@ -49,7 +49,7 @@
                     <section id="intro" class="wrapper style1 fullscreen fade-up">
                         <div class="inner">
 
-                            <h1>Sistematizamos soluciones integrales para necesidades de información a través de una plataforma de aplicaciones para IOS y Android</h1>
+                            <h1>Sistematizamos Soluciones Integrales para Necesidades de Información a través de una Plataforma de Aplicaciones para IOS y Android</h1>
                             <p>
                             </p>
                             <ul class="actions">
@@ -59,12 +59,12 @@
                     </section>
 
                 <!-- One -->
-                    <section id="one" class="wrapper style2 spotlights fullscreen fade-up">
+                    <section id="one" class="wrapper style2 spotlights fullscreen fade-up" style="margin: 0 0 2em 0;">
                         <section>
                             <!--<a href="#" class="image fit"><img style="/*height: 493px; width: 499px;*/" src="images/paperless_slider.jpg" alt="" data-position="center center" /></a>-->
                             <div class="content">
                                 <div class="inner">
-                                    <h2 style="background-color: rgba(0, 0, 0, 0.498039);">Desarrollo soluciones en ambiente Mobile para el control de sus operaciones</h2>
+                                    <h2 style="background-color: rgba(0, 0, 0, 0.498039);">Desarrollo de Soluciones en Ambiente Mobile para el Control de sus Operaciones</h2>
 
                                     <ul class="actions">
                                         <li><a href="#two" class="button">Learn more</a></li>
@@ -76,14 +76,14 @@
                     </section>
 
                     <!-- Two -->
-                        <section id="two" class="wrapper style2 spotlights">
+                        <section id="two" class="wrapper style2 spotlights ">
 
 
                                 <section>
-                                    <a href="#" class="image fit"><img style="/*height: 493px; width: 521px;" src="images/deliverytablet-1024x682.jpg" alt="" data-position="top center" /></a>
+                                    <a href="#" class="image fit align-vertical"><img style="/*height: 493px; width: 521px;" src="images/deliverytablet-1024x682.jpg" alt="" data-position="top center" /></a>
                                     <div class="content">
                                         <div class="inner">
-                                            <h2>Reportabilidad / Trazabilidad de las actividades en terreno online</h2>
+                                            <h2>Reportabilidad / Trazabilidad de las Actividades en Terreno Online</h2>
 
                                             <ul class="actions">
                                                 <li><a href="#" class="button">Learn more</a></li>
@@ -92,10 +92,10 @@
                                     </div>
                                 </section>
                                 <section>
-                                    <a href="#" class="image fit"><img style="/*height: 493px; width: 521px;" src="images/screens.png" alt="" data-position="25% 25%" /></a>
+                                    <a href="#" class="image fit "><img style="/*height: 493px; width: 521px;" src="images/screens.png" alt="" data-position="25% 25%" /></a>
                                     <div class="content">
                                         <div class="inner">
-                                            <h2>Tablero de Control (Scorecard) para gestionar recursos y procesos</h2>
+                                            <h2>Tablero de Control (Scorecard) para Gestionar Recursos y Procesos</h2>
                                             <p><br>
 
                                             </p>
@@ -106,10 +106,10 @@
                                     </div>
                                 </section>
                                 <section>
-                                    <a href="#" class="image fit"><img style="/*height: 493px; width: 521px;" src="images/users.png" alt="" data-position="25% 25%" /></a>
+                                    <a href="#" class="image fit align-vertical"><img style="/*height: 493px; width: 521px;" src="images/users.png" alt="" data-position="25% 25%" /></a>
                                     <div class="content">
                                         <div class="inner">
-                                            <h2>Integración de múltiples usuarios para optimzar  múltiples trabajos</h2>
+                                            <h2>Integración de Múltiples Usuarios para Optimzar  Múltiples Trabajos</h2>
                                             <p><br>
 
                                             </p>
@@ -120,7 +120,7 @@
                                     </div>
                                 </section>
                                 <section>
-                                    <a href="#" class="image fit"><img style="/*height: 493px; width: 521px;" src="images/azure.png" alt="" data-position="25% 25%" /></a>
+                                    <a href="#" class="image fit align-vertical"><img style="/*height: 493px; width: 521px;" src="images/azure.png" alt="" data-position="25% 25%" /></a>
                                     <div class="content">
                                         <div class="inner">
                                             <h2>Seguridad de la Información (Microsoft Azure)</h2>
@@ -191,9 +191,7 @@
                                 </section>
 
                             </div>
-                            <ul class="actions">
-                                <li><a href="#" class="button">Learn more</a></li>
-                            </ul>
+
                         </div>
                     </section>
 
@@ -201,7 +199,7 @@
                     <section id="four" class="wrapper style1 fade-up">
                         <div class="content">
                             <div class="inner">
-                                <h2>VIDEO PERFOMANCE</h2>
+
 
                                 <div class="video features">
 
@@ -211,8 +209,8 @@
 
                                         </video>-->
                                         <div style="padding: 3px;">
-                                            <iframe width="720" height="415"
-                                        src="http://www.youtube.com/embed/DY_9BXRxMVI">
+                                            <iframe width="1020" height="415"
+                                        src="http://www.youtube.com/embed/BbkgTCa_UYg">
                                         </iframe>
                                         </div>
 
